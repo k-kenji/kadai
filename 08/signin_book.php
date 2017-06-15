@@ -115,13 +115,10 @@ if (isset($_POST["login"])) {
                 <button class="btn btn-lg btn-primary btn-block btn-signin" type="submit" name="login">Sign in</button>
             </form><!-- /form -->
             <a href="signup_book.php" class="forgot-password">
-                Go to Sign Up　
+                Go to Sign Up
             </a>
         </div><!-- /card-container -->
     </div><!-- /container -->
     <script src="js/boost1.js"></script>
-    <script type="text/javascript">
-
-    </script>
   </body>
 </html>
